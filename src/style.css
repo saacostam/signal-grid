@@ -1,0 +1,36 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+#app{
+  display: flex;
+  justify-content: center;
+}
+
+canvas{
+  background-color: #101010;
+  cursor: pointer;
+  image-rendering: high-quality;
+}
+
+.logo{
+  color: #1565c0;
+  text-align: center;
+  user-select: none;
+}
+
+.logo span {
+  color: #c62828;
+}
