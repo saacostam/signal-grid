@@ -4,7 +4,6 @@ Signal Grid is a vanilla TypeScript game inspired by classic pipe puzzles. The g
 ## 🚀 Features
 - ✅ Classic pipe-connecting puzzle mechanics
 - ✅ Multiple tile types with rotations
-- ✅ Increasing difficulty with complex grids
 - ✅ Minimalist and engaging design
 
 ## 🔧 Technologies Used
