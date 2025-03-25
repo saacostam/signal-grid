@@ -1,4 +1,4 @@
-# 🔵 Signal Grid – A Pipe Puzzle Game
+# 🚰 Signal Grid – A Pipe Puzzle Game
 Signal Grid is a vanilla TypeScript game inspired by classic pipe puzzles. The goal is to connect a starting point to an endpoint by rotating pipe-like elements to create a continuous flow.
 
 ## 🚀 Features
